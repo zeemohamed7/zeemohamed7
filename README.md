@@ -1,5 +1,5 @@
 
-![banner](Screenshot 2023-08-19 at 11 46 43 pm](https://github.com/zeemohamed7/zeemohamed7/assets/142171425/b7e2291c-f182-4d78-8b99-a7fb1a2fdf14)
+![banner](https://github.com/zeemohamed7/zeemohamed7/assets/142171425/b7e2291c-f182-4d78-8b99-a7fb1a2fdf14)
 
 ### Hi there 👋 
 Welcome to my GitHub profile.
