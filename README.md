@@ -1,6 +1,6 @@
 <p align=”center”>
   <img width=”200" height=”200" src="https://github.com/zeemohamed7/zeemohamed7/assets/142171425/b7e2291c-f182-4d78-8b99-a7fb1a2fdf14" alt=”my banner”>
-</p>
+
 
 
 ### Hi there 👋 
@@ -14,9 +14,7 @@ My name is Zainab, and I'm a software engineer who is currently studying Informa
 ## Contact Me
 I love connecting with fellow developers, enthusiasts, and anyone passionate about the same things I am. Feel free to reach out to me through the following channels:
 
-![image]({https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white}) [www.linkedin.com/in/zainabmo
-
-]
+</p>
 
 <!--
 **zeemohamed7/zeemohamed7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
