@@ -1,6 +1,6 @@
-
+<p align=”center”>
 ![banner](https://github.com/zeemohamed7/zeemohamed7/assets/142171425/b7e2291c-f182-4d78-8b99-a7fb1a2fdf14)
-
+</p>
 ### Hi there 👋 
 Welcome to my GitHub profile.
 
