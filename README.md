@@ -15,7 +15,7 @@ My name is Zainab, and I'm a software engineer who is currently studying Informa
 I love connecting with fellow developers, enthusiasts, and anyone passionate about the same things I am. Feel free to reach out to me through the following channels:
 
 <a href="https://www.linkedin.com/in/zainabmo">
-<img alt=”LinkedIn” src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img alt=”LinkedIn” src="https://github.com/zeemohamed7/zeemohamed7/assets/142171425/cd2b9c18-7be5-4892-86f5-f25e9b0a87e0"/>
 </a>
 
 </p>
