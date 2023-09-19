@@ -12,11 +12,8 @@ My name is Zainab, and I'm a software engineer who is currently studying Informa
 
 
 ## Contact Me
-I love connecting with fellow developers, enthusiasts, and anyone passionate about the same things I am. Feel free to reach out to me through the following channels:
+If you'd like to connect, you can find me on<a href="https://www.linkedin.com/in/zainabmo"> LinkedIn! </a>
 
-<a href="https://www.linkedin.com/in/zainabmo">
-<img alt="LinkedIn" height="32" width="32" src="https://github.com/zeemohamed7/zeemohamed7/assets/142171425/cd2b9c18-7be5-4892-86f5-f25e9b0a87e0">
-</a>
 
 </p>
 
