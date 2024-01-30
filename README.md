@@ -4,10 +4,10 @@
 
 
 ### Hi there 👋 
-Welcome to my GitHub profile.
 
 ## About Me
-My name is Zainab, and I'm a software engineer who is currently studying Information Technology. I have a passion for web development and creating engaging user experiences. I'm proficient in HTML, CSS, and JavaScript, and I enjoy building responsive and interactive websites. I'm familiar with frameworks like React, Express, Django and more!. With a background in biotechnology, I strive to be at the forefront of my field and contribute a unique blend of technical and scientific experience to any project.
+My name is Zainab, and I'm a software engineer who is currently studying Information Technology. With a background in biotechnology, I enjoy mixing my scientific and technical sides to create unique solutions to problems. 
+
 
 
 
