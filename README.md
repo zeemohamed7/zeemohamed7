@@ -6,10 +6,10 @@
 ### Hi there 👋 
 
 ## About Me
-My name is Zainab, and I'm a software engineer who is currently studying Information Technology. With a background in biotechnology, I enjoy mixing my scientific and technical sides to create unique solutions to problems. 
+My name is Zainab, and I'm a software engineer who is currently studying Information Technology 💻 With a background in biotechnology, I enjoy mixing my scientific and technical sides to create unique solutions to problems 🔬
 
 
-
+I also currently work as a social media content creator at a prominent media agency in Bahrain!👀
 
 ## Contact Me
 If you'd like to connect, you can find me on<a href="https://www.linkedin.com/in/zainabmo"> LinkedIn! </a>
